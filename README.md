@@ -34,14 +34,16 @@ More about the project:
 
 ## Team
 
-- **Yuelin Liu**, Producer
+- Yuelin Liu
 - Zelin Chen
 - Alvin Li
 - Ethan Wills
 - Barry Yuan
 
 Client: Prof. Dina El-Zanfaly, CMU School of Design
+
 Faculty advisors: Derek Ham, Scott Stevens
+
 Community partner: Industrial Arts Workshop, Pittsburgh
 
 ## Opening the Unity project
@@ -91,8 +93,3 @@ Models, textures, music and sound effects were made by the team. Third-party cod
 - Marching cubes triangulation tables in `Assets/Scripts/Draw/Metaball/CubeLookup.cs` are from [dwilliamson's gist](https://gist.github.com/dwilliamson/c041e3454a713e58baf6e4f8e5fffecd).
 - Meta XR SDK (`com.meta.xr.sdk.all`).
 - Unity packages: Universal Render Pipeline, Shader Graph, VFX Graph, Timeline, Input System, OpenXR, TextMesh Pro, AI Navigation.
-
-## Known issues
-
-- The power dial and the old push-button switch both exist in the booth. The dial wins because it writes the power state every frame.
-- Some names are leftovers from earlier versions and were kept on purpose (`PlaytestGameManager`, the `Tutoriall` folder, `PerparationVOTrigger`). Renaming a script file outside Unity breaks scene references, so rename them inside the editor if you want to.
