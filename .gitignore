@@ -1,0 +1,55 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/TempAssembly.dll
+/_Unused/
+
+# IDE / solution files (Unity regenerates these)
+/.vs/
+/.vscode/
+/.idea/
+/.utmp/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity Version Control / Plastic leftovers
+/.plastic/
+ignore.conf
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+crashlytics-build.properties
+
+# Local secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Internal team documents and the design doc (kept off GitHub)
+/Document/
+/Docs/
+
+# GitHub prep files
+/_GitHubPrep/

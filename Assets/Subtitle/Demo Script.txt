@@ -1,0 +1,28 @@
+﻿Captain, we are now entering the asteroid field. Alert! Asteroid approaching. Captain, the asteroid is on a collision course with The Picasso. Prepare for impact. [collision] Alert! Alert! Hull breach detected. Quarantining breach zone. Warning! Insufficient material. Captain, you must make your way to maintenance and send more material so I may complete the repair.
+--
+
+Captain, be sure to pick up your protective mask. Then, proceed into maintenance. You will need to create a patch using the standard-grade repair scrap metal located in the basket. Two pieces will suffice. Pick up the pieces of metal, and proceed to the welding booth for further instruction.
+--
+
+Do not worry Captain, this repair is simple. Unfortunately these two pieces are too small on their own to patch the breach, but if you weld them together it will be more than sufficient. Place the two pieces of metal next to each other and hold the highlighted trigger to weld. Remember to move slowly and steadily. As you work, I will provide live assistance through the box projected above your welding gun. When you are finished, place the welded pieces on the green counter located outside of the welding booth and push the nearby button. 
+--
+
+Captain, now is not the time for games. If we do not patch the hull breach soon, The Picasso is at risk of complete structural failure. Please take two pieces of scrap into the welding booth and weld them together into a patch as previously instructed.
+--
+
+Captain, please. This is an emergency. I require a patch comprised of two pieces of scrap welded together to complete the repair. This is insufficient. Please return to the welding booth and try again.
+--
+
+Well done Captain. I will transport the patch to the hull breach and complete the repair. Hull breach repaired. Systems stabilizing, please stand by as The Picasso performs standard self-diagnostic procedures. In the meantime, do not forget you may contact me to discuss anything you wish through your communicator.
+--
+
+Warning! The backup fuel cell Gamma4 located in maintenance is experiencing a critical meltdown. Captain, there is no time. I have opened the small door in the maintenance room so that you may retrieve the fuel cell from the counter. Retrieve it and bring the fuel cell back to the welding booth for repairs at once.
+--
+
+Proceed with maximum caution captain, the fuel cell is in critical condition. Use your welding gun to fill in the cracks in the cell. Be sure to examine all sides to ensure you do not miss any cracks. Stay calm and remember you must weld slowly and steadily to ensure a proper repair… But I would highly recommend completing this repair as… efficiently as possible.
+--
+
+Expertly done, Captain. It is not easy to maintain focus and precision during a crisis. However, your work is not yet complete. Many systems are barely functioning, and I will need your help. Please stand by for further instruction.
+--
+
+Expertly done, Captain. It is not easy to maintain focus and precision during a crisis. I would provide you a gift, but we are alone and stranded in the far reaches of space. Suggestion: While I complete the self-diagnosis process to isolate more repairs, take a well-deserved break and feel free to piece together the scrap in front of you in whatever way you like.
